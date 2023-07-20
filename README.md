@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya7738
 - 👀 I’m interested in ... android application development 
-- 🌱 I’m currently learning ...UI/UX, Android application development, Java, SQLite, Cloud computing, Kotlin
+- 🌱 I’m currently learning ...UI/UX, Android application development, Java, SQLite, Cloud computing, Kotlin, iOS development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... My email id is aditya.shigwan18@gmail.com
 
